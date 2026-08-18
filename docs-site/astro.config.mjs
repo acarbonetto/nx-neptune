@@ -13,7 +13,8 @@ export default defineConfig({
       customCss: ['./src/styles/custom.css'],
       plugins: [
         starlightBlog({
-          title: 'Blog',
+          title: "What's New",
+          prefix: 'news',
           authors: {
             nxNeptuneTeam: {
               name: 'nx-neptune team',

@@ -1,5 +1,5 @@
 ---
-title: Welcome to the nx-neptune blog
+title: Welcome to nx-neptune news
 date: 2026-07-20
 excerpt: Announcements, release notes, and deep dives on bringing graph analytics to your data lake with NetworkX and Amazon Neptune Analytics.
 authors: nxNeptuneTeam
@@ -7,7 +7,7 @@ tags:
   - announcements
 ---
 
-Welcome to the **nx-neptune** blog! This is where we'll share release notes,
+Welcome to **nx-neptune** news! This is where we'll share release notes,
 feature deep dives, usage patterns, and news about bringing graph analytics to
 your data lake — powered by [NetworkX](https://networkx.org/) and
 [Amazon Neptune Analytics](https://docs.aws.amazon.com/neptune-analytics/latest/userguide/what-is-neptune-analytics.html).
